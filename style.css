@@ -1,0 +1,97 @@
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0 10%;
+  background-color: #DDB8A6;
+  color: #3d3d3d;
+}
+
+.h1-font {
+
+color: beige
+}
+.container {
+  border: 2px solid #3d3d3d;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: beige;
+  
+}
+
+.color-cointainer {
+  width: 100%;
+}
+
+.color-panel {
+  display:inline-block;
+  width: 10%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+  border-radius: 20%;
+}
+
+.camouflage-green {
+
+  background-color: #7B876D;
+  color: beige;
+
+}
+
+.just-right {
+
+  background-color: #DDB8A6;
+  color: beige;
+}
+
+.saddle-brown {
+
+  background-color: #893f04;
+  color: beige;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.playfair-display-sc {
+  font-family: 'Playfair Display SC', serif;
+}
+
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+
+.habibi {
+  font-family: 'Habibi', serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Playfair Display SC', serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 20px;
+  font-family: 'Habibi', serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 18px;
+  font-family: 'Lato', serif;
+}
